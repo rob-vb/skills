@@ -1,0 +1,6 @@
+.DS_Store
+*.p8
+*.mobileprovision
+AuthKey_*.p8
+.env
+.env.*
