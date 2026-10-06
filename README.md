@@ -14,6 +14,7 @@ Cursor loads a skill when `SKILL.md` sits in that folder. After linking, start a
 
 | Skill | Use when |
 | --- | --- |
+| `content-mapper` | Planning what to post on social media: mission, broad topics, subtopics, and post ideas, built through question rounds and rendered as an HTML map. |
 | `submit-ios-app-store` | Shipping a native iOS app to App Store Connect, or when the user says App Store, TestFlight, archive, or submit. |
 
 ## License
